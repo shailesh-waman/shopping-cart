@@ -1,4 +1,4 @@
-##### STORY 1: Add a product to the shopping cart.
+#### STORY 1: Add a product to the shopping cart.
 
 *Given* -
 Empty shopping cart
@@ -13,7 +13,7 @@ Shopping Cart's total price is 150.
 
 
 
-##### STORY 2: Add multiple products to the shopping cart
+#### STORY 2: Add multiple products to the shopping cart
 *Given* -
 Empty shopping cart
 Product - Dove Soap; Unit price – 30;
@@ -30,7 +30,7 @@ Shopping Cart's total price is 290.
 
 
 
-##### STORY 3: Add products to the shopping cart, which have "Buy X, Get Y free" offer.
+#### STORY 3: Add products to the shopping cart, which have "Buy X, Get Y free" offer.
 
 *Given* -
 Empty shopping cart
